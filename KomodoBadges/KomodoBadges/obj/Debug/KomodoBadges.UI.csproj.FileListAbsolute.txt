@@ -1,0 +1,7 @@
+C:\Users\olihu\source\repos\KomodoBadges\KomodoBadges\bin\Debug\KomodoBadges.exe.config
+C:\Users\olihu\source\repos\KomodoBadges\KomodoBadges\bin\Debug\KomodoBadges.exe
+C:\Users\olihu\source\repos\KomodoBadges\KomodoBadges\bin\Debug\KomodoBadges.pdb
+C:\Users\olihu\source\repos\KomodoBadges\KomodoBadges\obj\Debug\KomodoBadges.UI.csprojAssemblyReference.cache
+C:\Users\olihu\source\repos\KomodoBadges\KomodoBadges\obj\Debug\KomodoBadges.UI.csproj.CoreCompileInputs.cache
+C:\Users\olihu\source\repos\KomodoBadges\KomodoBadges\obj\Debug\KomodoBadges.exe
+C:\Users\olihu\source\repos\KomodoBadges\KomodoBadges\obj\Debug\KomodoBadges.pdb

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoClaims.Test", "KomodoClaims\KomodoClaims.Test.csproj", "{D7EE8F86-0716-4A7F-943E-0B6DD63262EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoClaims.UI", "KomodoClaims.Console\KomodoClaims.UI.csproj", "{3A929803-52B0-4679-8094-43532EE1DC0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoClaims.Classes", "KomodoClaims.Classes\KomodoClaims.Classes.csproj", "{E8ADE285-084C-4474-9589-97D425207581}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{87CC8C53-100A-4318-9108-E5A476D7698B}"
+	ProjectSection(SolutionItems) = preProject
+		Prompt.txt = Prompt.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7EE8F86-0716-4A7F-943E-0B6DD63262EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EE8F86-0716-4A7F-943E-0B6DD63262EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EE8F86-0716-4A7F-943E-0B6DD63262EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EE8F86-0716-4A7F-943E-0B6DD63262EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A929803-52B0-4679-8094-43532EE1DC0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A929803-52B0-4679-8094-43532EE1DC0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A929803-52B0-4679-8094-43532EE1DC0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A929803-52B0-4679-8094-43532EE1DC0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8ADE285-084C-4474-9589-97D425207581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8ADE285-084C-4474-9589-97D425207581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8ADE285-084C-4474-9589-97D425207581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8ADE285-084C-4474-9589-97D425207581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F5088C-CAF6-40ED-86C0-FB2942D9A596}
+	EndGlobalSection
+EndGlobal
